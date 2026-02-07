@@ -12,4 +12,4 @@
 
 ### live link
 
-[cursor-landing-page](https://mentlify-landing-page.netlify.app/)
+[mentlify-landing-page](https://mentlify-landing-page.netlify.app/)
